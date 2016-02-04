@@ -1,0 +1,74 @@
+-Opening And Logging In-
+
+1.When downloaded succesffully, clicking the app icon will open Snapchat's primary 'new user' screen.
+-As a User, I can download and open the app.
+
+2.If not logged in, User will be prompted with sign in options upon startup (one is w/ Facebook).
+-As a User, I am able to sign in with my Facebook or other options.
+
+3.When log in with Facebook is clicked, User is taken to Facebook app or site to log in and connect to Snapchat.
+-As a User, I can log in with my Facebook and connect it to my snapchat by clicking the appropriate buttons and filling out the correct information.
+
+4.If no problems occur with entering username and password(s), User is taken to main snapchat screen (home).
+-As a User, I can navigate into my snapchat successfully by inputting the correct information and permissions at login.
+
+
+5.If User inputs incorrect credentials, prompt an error message to notify User.
+-As a User, I can input the incorrect information at login and receive a notification of my mistake.
+
+
+6.If User clicks create account, takes User to account creation screen.
+-As a User, I can create an account from scratch if I don't have one.
+
+
+
+
+
+-Taking Pictures- 
+
+1.If snapchat button/camera is clicked from the home screen, User is taken to camera screen (phone's camera application) with capture button in bottom-middle of parent, and a back icon.
+-As a User, I can navigate to the capture screen to take snapchats.
+
+2.If the capture button is clicked, picture is taken, previewed to the user, and 'send' icon appears as well as 'back' and save to camera roll icons, and edit options become available(text and filter).
+-As a User, I can take my snapchat photo, preview it, and then select whichever option available to me that I'd like to take next.
+
+3.If the capture button is held (for a certain amount of time equal to or less than the limit), User gets prompted with send icon, back icon, save to camera roll icon, and additional edit options(text and filter), while previewing the video.
+-As a User, I can take my snapchat video, preview it, and then select whichever option available to me that I'd like to take next.
+
+4.If the User presses the back icon, it takes User back to home screen if no picture is taken, or gets rid of picture/video after prompting (double checking) with the user.
+-As a User, I can go back to the home screen or go back to the capture screen if I am not content with my capture preview.
+
+5.If the User presses the send icon, it takes User to the send activity, where User is able to send to his 'story' temporary collection, or directly to his contacts (this activity has a back button and another send button/confrim).
+-As a User, I am able to send my capture to my contacts or my story.
+
+
+6.If the User swipes right or left after capture, the User's preview becomes changed with pre-set filters/available edit options.
+-As a User, I can edit my preview's filter by swiping right or left on it.
+
+
+-Viewing-
+
+1.While on Home screen, User is prompted with a list of his current contact's available pictures to view, their stories, and his story, with appropriate activity buttons/icons(Snapchat/camera,settings, etc.).
+-As a User, I can view my current contacts and all of their available stories.
+
+2.If User clicks on a profile, the User receives a dialog with his contact's username, public information, and Snapchat score.
+-As a User, I can see my contact's information by clicking on their profile.
+
+3.If User clicks on a listed story or received photo/video, User is sent to the appropriate story activity (where the snapchat 'story' is constant for a limited time, and User can go through it or back).
+-As a User, I can view my contact's public stories.
+
+4.If User clicks on 'received' icon, User is taken to an activity which lists his past directly received and replied-to snapchats, and his available to-view photo/video icons with the right contact's name.
+-As a User, I can choose to view one of my directly-received snapchats from a list, and see my past snapchat encounters.
+
+5.While User is in the 'direct snapchat activity', and if User clicks on a received snapchat, a viewing begins for a set amount of time that the owner has set, before it becomes erased. If User had not replayed a snapchat in the same day, the option becomes available to replay the snapchat by clicking it again.
+-As a User, I can view a directly-received snapchat by clicking one, and replay one if I had not already that same day after it becomes erased.
+
+6.If the User swipes right on a contact, User is taken to a message activity with appropriate buttons/icons(camera,back,contact,etc.) and an edit text field to send messages and photos privately to that contact.
+-As a User, I can send messages and photos privately to my contacts.
+
+7.If the User takes a screenshot during a viewing, a notification is sent to the owner of the photo/video.
+-As a User, I can take a screenshot of a snapchat I view, which will also let my contact know that I have done so.
+
+8.If User swipes up on the home screen, the list becomes updated to its current status at that time.
+-As a User, I can refresh my snapchat list of stories and contacts.
+
